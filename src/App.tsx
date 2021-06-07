@@ -1,5 +1,8 @@
 import React from 'react';
-import Base from "./components/Base"
+
+//Sections
+import Base from "./Sections/Base"
+//import Footer from "./Sections/Main"
 
 function App() {
   return (
